@@ -1,8 +1,8 @@
 ### Olá! Eu sou Carolayne
 
 
-- 🔭 Me especializando em front-end
-- 🌱 Estudadndo Javascript| HTML| React| CSS
+- Estudante de ciência da computação e me especializando em front-end
+- 🌱 Estudadndo Javascript| React | HTML| CSS
 - 💬 Contate-me no email: urielcarolayne@gmail.com
 - 😄 Pronouns: Ela/Dela
 
