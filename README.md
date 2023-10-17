@@ -1,5 +1,9 @@
 ### Olá! Eu sou Carolayne Uriel
-Comecei a estudar tecnologia há 5 meses, fiz um curso de introdução ao front end e me apaixonei pela area, logo em seguida entrei numa faculdade onde faço Ciência Da Computação EAD, tambem estou no curso front end da escola Vai Na Web e estou fazendo parte da comunidade DIO.
+Comecei a estudar tecnologia, fiz um curso de introdução ao front end e me apaixonei pela area, logo em seguida entrei numa faculdade onde faço Ciência Da Computação EAD.
+Atualmente estou estudando: 
+-React
+-Angular
+-Java
 
 ### Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:caroluriel@outlook.com)
