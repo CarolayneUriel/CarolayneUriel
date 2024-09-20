@@ -1,4 +1,4 @@
-<p align="left">Olá! 👋<br>Meu nome é Carolayne!<br><br>Sou estudante de ciência da computação, meu desejo de aprender sempre mais me motivaram a buscar conhecimentos tanto na faculdade quanto fora dela.<br><br>Meu objetivo é me tornar uma desenvolvedora Full Stack.</p>
+<p align="left">Olá! 👋<br>Meu nome é Carolayne!<br><br>Sou estudante de ciência da computação, meu desejo de aprender sempre mais me motivou a buscar conhecimentos tanto na faculdade quanto fora dela.<br><br>Meu objetivo é me tornar uma desenvolvedora Full Stack.</p>
 
 ###
 
@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+ 
 </div>
 
 ###
