@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://th.bing.com/th/id/OIG3.Ew3nW.7K1Wsn0r8LUiGC?pid=ImgGn"  />
-</div>
 
 ###
 
